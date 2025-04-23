@@ -70,4 +70,4 @@ WHERE YEAR(OrderDate) = 2013
 
 SELECT * FROM vwInternetSales2013
 
--- Step 7: 
+-- Step 7: Integration with Excel
